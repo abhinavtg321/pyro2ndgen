@@ -2,8 +2,8 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID"))
+BOT_TOKEN = os.getenv("8372660902:AAEcnZcdsHYQRMFDxEG3iN6cEIvQ2rZlI98")
+OWNER_ID = int(os.getenv("1254508607"))
 
 gban_users = set()
 
